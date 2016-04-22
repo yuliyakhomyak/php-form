@@ -1,4 +1,4 @@
-$recepient = "dimina@i.ua";
+$recepient = "proj150316@i.ua";
 $sitename = "test form";
 
 $name = trim($_POST["name"]);
